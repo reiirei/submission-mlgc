@@ -1,5 +1,5 @@
 {
-  "name": "submissionmlgc-iqbal",
+  "name": "submission-mlgc-orie",
   "version": "1.0.0",
   "description": "",
   "main": "src/server/server.js",
@@ -9,7 +9,7 @@
     "start:dev": "nodemon ./src/server/server.js",
     "start": "node ./src/server/server.js"
   },
-  "author": "Iqbal Bagus Satriawan",
+  "author": "Orie Esra Yuwangga",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/firestore": "^7.7.0",
